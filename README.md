@@ -37,18 +37,6 @@ It includes a trained model, a FastAPI backend for serving predictions, and a St
 
 ---
 
-## Project Structure
-fraud_project/
-│
-├── app.py              (Streamlit frontend)
-├── main.py             (FastAPI backend)
-├── xgb_model.pkl       (trained model)
-├── scaler.pkl          (scaler)
-├── columns.pkl         (feature columns)
-├── background.jpg      (UI background image)
-
----
-
 ## How to Run
 
 ### 1. Install dependencies
